@@ -1,5 +1,16 @@
+html{
+    font-size: 62.5%;
+}
 body{
     text-align: center;
     font-family: sans-serif;
-    color: deeppink;
+    color: #333;
+    font-size: 1.6rem;
+}
+.container{
+    width: 90%;
+    margin-inline: auto;
+    padding: 1rem;
+    text-align: left;
+    border: 1px solid #ddd;
 }
